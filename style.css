@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+    background-image: url(https://ih1.redbubble.net/image.694416621.0211/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg);
+    
+}    
+button{
+    margin: 10px;
+    background-color: aquamarine;
+    padding: 10px 20px;
+    font-size: 30px;
+    color: antiquewhite;
+    border-radius: 10px;
+}
+.row div{
+    padding: 10px;
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    float: left;
+}
